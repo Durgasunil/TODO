@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core",
+      "state" : {
+        "revision" : "55a48c287b5e3a8ca129c257ec7e3b92bcb2a05f",
+        "version" : "12.3.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "revision" : "2d5d121f6cf08aa84eeb076b653131a23f1edd6b",
+        "version" : "10.28.3"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "07c5d1f6044701d97e94dc11157259e8811977be"
+      }
+    },
+    {
+      "identity" : "todokit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Durgasunil/TODOKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4cf841aa692f6930ce5c975db87894c046a93391"
+      }
+    }
+  ],
+  "version" : 2
+}

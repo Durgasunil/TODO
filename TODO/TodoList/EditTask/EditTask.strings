@@ -1,0 +1,13 @@
+/* 
+  EditTask.strings
+  TODO
+
+  Created by Durgasunil Velicheti on 8/3/22.
+  
+*/
+
+"AddTask NavigationItem title" = "Add Task";
+"EditTask NavigationItem title" = "Edit Task";
+"TaskDescription Lable text" = "Task Description:";
+"MarkTaskComplete Lable text" = "Mark Task Complete: ";
+"Failed to update task in realm message" = "Failed to save the task. Please contact support if the error persists";
